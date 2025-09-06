@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Didarul Islam</h1>
 <h3 align="center">I'm Studying in CSE at Daffodil International University.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=josephmisiti&label=Profile%20views&color=0e75b6&style=flat" alt="josephmisiti](https://img.shields.io/badge/Profile%20views-24000-blue)" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=didarul45&label=Profile%20views&color=0e75b6&style=flat" alt="didarul45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innat" alt="didarul45" /></a> </p>
 
