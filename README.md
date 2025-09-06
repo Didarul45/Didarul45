@@ -1,5 +1,8 @@
 ![logo](https://github.com/Didarul45/Didarul45/blob/main/banner.png)
 
+![Profile views](https://img.shields.io/badge/Profile%20views-24000-blue)
+
+
 <h1 align="center">Hi 👋, I'm Didarul Islam</h1>
 <h3 align="center">I'm Studying in CSE at Daffodil International University.</h3>
 
